@@ -27,7 +27,7 @@ for (let i = 0; i < rainbow.length; i++){
     rainbow[i].style.color = colors[i]
 }
 ```
-3. Same ideas above but changing DOM using Objects key-value in an Array using For loop:
+3. Same idea as above but changing DOM using Objects key-value in an Array - For loop:
 ```html
 <ul>
   <li><figure><img src=""><figcaption>no image</figcaption></figure></li>
