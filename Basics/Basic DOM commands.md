@@ -36,6 +36,7 @@ for (let i = 0; i < rainbow.length; i++){
   <li><figure><img src=""><figcaption>no image</figcaption></figure></li>
   <li><figure><img src=""><figcaption>no image</figcaption></figure></li>
 </ul>
+```
 ```js
 const pandaPics = [
   {
