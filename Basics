@@ -1,2 +1,0 @@
-1. Find the attributes of a HTML element -> You first have to assign the element into a variable and then use console.dir() using the variable.
-E.g:
